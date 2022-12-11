@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Git clone') {
             steps {
-                git 'https://github.com/MaryamWahbi1/JenkinsHW.git'
+                git 'https://github.com/MaryamWahbi1/Jenkins-Closing-Task.git'
             }
         }
         

@@ -8,7 +8,7 @@ News XML in an HTML Table Format (Don’t forget to make right to left as in
 Hebrew)
 
 2- Create a Jenkins CI/CD pipeline Job to Build and Deploy (Run) the application on a new
-instance.
+instance (the Job must send a Slack).
 
 ## Run the app:
 You can then access the app here: http://localhost:8180
@@ -18,3 +18,6 @@ You can then access the app here: http://localhost:8180
 Creating a pipeline job in Jenkins Master
 
 [![](https://github.com/MaryamWahbi1/JenkinsHW/blob/master/pipline.PNG?raw=true)](https://github.com/MaryamWahbi1/JenkinsHW/blob/master/pipline.PNG?raw=true)
+
+## Slack Notification :
+[![https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true](https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true "https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true")](https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true "https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true")

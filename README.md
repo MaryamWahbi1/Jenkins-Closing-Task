@@ -12,6 +12,7 @@ instance (the Job must send a Slack).
 ------------
 ## APP DEVELOPING
 ![](http://4.bp.blogspot.com/-4VKuqvU_Wgw/VoHfZm4IJ4I/AAAAAAAABZE/SU2Q20d7GAo/s1600/spring_framwork.png)
+
 This is a Spring Boot web app (Managed by Gradle). The project consists of 3 classes :
 1. DemoApplication: the main class.
 2. AppController: a web controller.
@@ -43,6 +44,7 @@ You can then access the app here: http://localhost:8180
 
 ## Jenkins Part:
 ![](https://www.jenkins.io/images/logo-title-opengraph.png)
+
 Use Jenkins to automate development workflow.
 
 1. Git clone

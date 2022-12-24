@@ -1,4 +1,5 @@
 # Jenkins Closing Task
+![](https://miro.medium.com/max/665/1*8UiQIv0OWGSB7cn9eFWa4g.png)
 ## Requirements of the task:
 1- Create a Java Application (Managed by Gradle or Maven) with the following features:
 - Reads the“Breaking News”from YNet new service:

@@ -24,6 +24,7 @@ This is a Spring Boot web app (Managed by Gradle). The project consists of 3 cla
 The project also has dirctory of resourses which includes:
 1. Template of the html file (index.html).
 2. Css file (main.css).
+
 ![](http://westonganger.com/system/categories/images/000/000/004/original/html-css.png?1570689942)
 
 ------------

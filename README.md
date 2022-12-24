@@ -55,5 +55,6 @@ Use Jenkins to automate development workflow.
 [![](https://github.com/MaryamWahbi1/JenkinsHW/blob/master/pipline.PNG?raw=true)](https://github.com/MaryamWahbi1/JenkinsHW/blob/master/pipline.PNG?raw=true)
 
 ## Slack Notification :
-![](https://miro.medium.com/max/800/1*Kk997Ugq1UncaJkWb8MRnA.png)
+![](https://i.ytimg.com/vi/TWwvxn2-J7E/maxresdefault.jpg)
+
 [![https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true](https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true "https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true")](https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true "https://github.com/MaryamWahbi1/Jenkins-Closing-Task/blob/master/slack.PNG?raw=true")
